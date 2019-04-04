@@ -1,4 +1,4 @@
-# Some essentials Docker commands
+# Docker commands
 
 ```shell
 ## Find some ready images: https://hub.docker.com/
